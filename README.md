@@ -6,5 +6,5 @@ Trabajos Paracticos
 * opcion 2
 ### Subtitulo 2
 **negrita**
-* [archivo 1](#mi_archivo)
+* [Practica 1](Practica_Unidad_1_Sietemas_Expertos.ipynb)
 * [archivo 2](#mi_archivo2)
